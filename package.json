@@ -1,0 +1,26 @@
+{
+  "name": "webpack-setup-from-scratch",
+  "version": "1.0.0",
+  "description": "webpack setup from scratch step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hscgavin/webpack-setup-from-scratch.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Gavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hscgavin/webpack-setup-from-scratch/issues"
+  },
+  "homepage": "https://github.com/hscgavin/webpack-setup-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
